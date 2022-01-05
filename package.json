@@ -1,0 +1,27 @@
+{
+  "name": "qa-bgg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GulenYilmaz/week12-QA-TuesdayLab-Automating-Board-Game-Geek.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GulenYilmaz/week12-QA-TuesdayLab-Automating-Board-Game-Geek/issues"
+  },
+  "homepage": "https://github.com/GulenYilmaz/week12-QA-TuesdayLab-Automating-Board-Game-Geek#readme",
+  "dependencies": {
+    "@types/jest": "^27.4.0",
+    "@types/selenium-webdriver": "^4.0.16",
+    "chromedriver": "^96.0.0",
+    "jest": "^27.4.6",
+    "selenium-webdriver": "^4.1.0"
+  }
+}
